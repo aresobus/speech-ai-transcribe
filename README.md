@@ -6,18 +6,18 @@ Speech-AI-Transcribe is a powerful tool for converting spoken language to writte
 
 ## Examples
 
-Click on the images below to watch the videos:
-
-### Example Video
-
-https://videos-cloudfront.jwpsrv.com/663b0a12_0e73869e381fb586eaeb5f1cfb624f766d2579b2/content/conversions/HvnsoakN/videos/mKuSdlae-33744421.mp4
+[![Example 1](https://assets-jpcust.jwpsrv.com/thumbnails/cL7KWyjh-1280.jpg)](https://content.jwplatform.com/videos/SybUFEpo-D1sQ4qx5.mp4)
 
 ## Video On Demand (VOD) Content or Streams
 
 In the [main example](examples), you can see how to create movies where the word being said is highlighted. 
 ### Additional Examples
 
+[![Example 2](https://assets-jpcust.jwpsrv.com/thumbnails/Gd9tacan-320.jpg)](https://content.jwplatform.com/videos/CB4ixGjV-vRNXRpvq.mp4)
 
+[![Example 3](https://assets-jpcust.jwpsrv.com/thumbnails/Gd9tacan-320.jpg)](https://content.jwplatform.com/videos/PeDseSR6-vRNXRpvq.mp4)
+
+[![Example 4](https://assets-jpcust.jwpsrv.com/thumbnails/Gd9tacan-320.jpg)](https://content.jwplatform.com/videos/xBAvfKPc-vRNXRpvq.mp4)
 
 ## How to Install
 
