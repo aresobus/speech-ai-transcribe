@@ -1,0 +1,17 @@
+{
+  "name": "@ts/loud",
+  "version": "1.2.0",
+  "description": "A WebAssembly module for speech recognition, built on advanced deep learning models.",
+  "type": "module",
+  "browser": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aresobus/speech-ai-transcribe"
+  },
+  "author": "Oleksandr Lebedyev <aresobus@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/aresobus/speech-ai-transcribe",
+  "publishConfig": {
+    "access": "public"
+  }
+}

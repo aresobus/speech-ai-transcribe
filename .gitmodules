@@ -1,0 +1,4 @@
+[submodule "loud.wasm/whisper.cpp"]
+	path = loud.wasm/whisper.cpp
+	url = https://github.com/ggerganov/whisper.cpp.git
+	ignore = dirty

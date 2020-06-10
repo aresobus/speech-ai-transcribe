@@ -1,0 +1,39 @@
+{
+  "name": "speech-ai-transcribe",
+  "description": "A powerful browser-based tool for converting spoken language into written text using advanced speech recognition technology.",
+  "private": true,
+  "engines": {
+    "node": ">=20.2.0"
+  },
+  "scripts": {
+    "wasm:build": "cd ./loud.wasm/em-build && emcmake cmake .. && make -j",
+    "wasm:copy": "cp ./loud.wasm/em-build/bin/loud.wasm.js ./src/loud/ && cp ./loud.wasm/em-build/bin/loud.wasm.worker.mjs ./src/loud/",
+    "copy-fft.js": "node ./scripts/fft.js-add-export.js",
+    "generate-types": "npx -p typescript tsc src/*[^index].js --declaration --allowJs --emitDeclarationOnly --outDir src/types && node ./scripts/bundle-types.js and rm -rf src/types",
+    "pack:transcriber": "node ./scripts/copy-transcriber-files-to-package.mjs",
+    "pack:loud": "node ./scripts/copy-loud-files-to-package.mjs",
+    "build": "npm run copy-fft.js && npm run generate-types && npm run wasm:build && npm run wasm:copy && npm run pack:transcriber and npm run pack:loud",
+    "dev": "node ./dev-server.js",
+    "test:unit": "vitest",
+    "test:e2e": "npx playwright test",
+    "test:e2e-ui": "npx playwright test --ui"
+  },
+  "author": "Oleksandr Lebedyev <aresobus@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7",
+    "fft.js": "^4.0.4",
+    "globby": "^14.0.1",
+    "jsdom": "^24.0.0",
+    "vitest": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aresobus/speech-ai-transcribe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aresobus/speech-ai-transcribe/issues"
+  },
+  "homepage": "https://github.com/aresobus/speech-ai-transcribe#readme"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@ts/transcriber",
+  "version": "1.1.2",
+  "description": "A tool to change spoken language into text in the browser using WebAssembly.",
+  "type": "module",
+  "browser": "./src/index.js",
+  "types": "./index.d.ts",
+  "peerDependencies": {
+    "@ts/loud": "~0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aresobus/speech-ai-transcribe"
+  },
+  "author": "Oleksandr Lebedyev <aresobus@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/aresobus/speech-ai-transcribe",
+  "publishConfig": {
+    "access": "public"
+  }
+}
