@@ -6,39 +6,17 @@ Speech-AI-Transcribe is a powerful tool for converting spoken language to writte
 
 ## Examples
 
+Click on the images below to watch the videos:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Video Example</title>
-</head>
-<body>
+### Example Video
+<video width="600" height="400" src="https://content.jwplatform.com/videos/PeDseSR6-vRNXRpvq.mp4" controls />
 
-<h2>Example Video 1</h2>
-<video width="320" height="240" controls>
-  <source src="https://content.jwplatform.com/videos/SybUFEpo-D1sQ4qx5.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Video On Demand (VOD) Content or Streams
 
-<h2>Additional Examples</h2>
-<video width="320" height="240" controls>
-  <source src="https://content.jwplatform.com/videos/CB4ixGjV-vRNXRpvq.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+In the [main example](examples), you can see how to create movies where the word being said is highlighted. 
+### Additional Examples
 
-<video width="320" height="240" controls>
-  <source src="https://content.jwplatform.com/videos/PeDseSR6-vRNXRpvq.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-<video width="320" height="240" controls>
-  <source src="https://content.jwplatform.com/videos/xBAvfKPc-vRNXRpvq.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-</body>
-</html>
 
 ## How to Install
 
