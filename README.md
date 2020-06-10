@@ -9,7 +9,8 @@ Speech-AI-Transcribe is a powerful tool for converting spoken language to writte
 Click on the images below to watch the videos:
 
 ### Example Video
-<video width="600" height="400" src="https://content.jwplatform.com/videos/PeDseSR6-vRNXRpvq.mp4" controls ></video>
+
+https://content.jwplatform.com/videos/PeDseSR6-vRNXRpvq.mp4
 
 ## Video On Demand (VOD) Content or Streams
 
