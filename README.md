@@ -10,7 +10,7 @@ Click on the images below to watch the videos:
 
 ### Example Video
 
-https://content.jwplatform.com/videos/PeDseSR6-vRNXRpvq.mp4
+https://videos-cloudfront.jwpsrv.com/663b0a12_0e73869e381fb586eaeb5f1cfb624f766d2579b2/content/conversions/HvnsoakN/videos/mKuSdlae-33744421.mp4
 
 ## Video On Demand (VOD) Content or Streams
 
