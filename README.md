@@ -4,24 +4,31 @@
 
 Speech-AI-Transcribe is a powerful tool for converting spoken language to written text directly in the browser. It uses advanced speech recognition technology and is easy to integrate into many types of projects. This tool is especially useful for those needing transcription of media files or real-time audio streams.
 
-## Examples Section
+## Examples
 
-Here you can see some examples:
+Click on the images below to watch the videos:
 
-https://videos-cloudfront.jwpsrv.com/663b08d9_01ee11fb9f2c40829f62892926873717771716cd/content/conversions/HvnsoakN/videos/vEnraw15-33744419.mp4
+### Example Video 1
+<a href="https://content.jwplatform.com/videos/SybUFEpo-D1sQ4qx5.mp4">
+  <img src="https://assets-jpcust.jwpsrv.com/thumbnails/kk99iexi-1920.jpg" alt="Example Video 1" width="600"/>
+</a>
 
 ## Video On Demand (VOD) Content or Streams
 
-You can see how to make VOD & movies where the word being said is highlighted. Use `-wts` argument and start the provided bash script. 
+In the [main example](examples), you can see how to create movies where the word being said is highlighted. 
+### Additional Examples
 
-Here are several typical examples for you to check:
+<a href="https://content.jwplatform.com/videos/CB4ixGjV-vRNXRpvq.mp4">
+  <img src="https://assets-jpcust.jwpsrv.com/thumbnails/aq9bm6a3-320.jpg" alt="Example Video 2" width="320"/>
+</a>
 
-https://content.jwplatform.com/videos/CB4ixGjV-vRNXRpvq.mp4
+<a href="https://content.jwplatform.com/videos/PeDseSR6-vRNXRpvq.mp4">
+  <img src="https://assets-jpcust.jwpsrv.com/thumbnails/nwwq5g6j-320.jpg" alt="Example Video 3" width="320"/>
+</a>
 
-https://content.jwplatform.com/videos/PeDseSR6-vRNXRpvq.mp4
-
-https://content.jwplatform.com/videos/xBAvfKPc-vRNXRpvq.mp4
-
+<a href="https://content.jwplatform.com/videos/xBAvfKPc-vRNXRpvq.mp4">
+  <img src="https://assets-jpcust.jwpsrv.com/thumbnails/nwwq5g6j-320.jpg" alt="Example Video 4" width="320"/>
+</a>
 
 ## How to Install
 
