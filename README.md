@@ -8,27 +8,29 @@ Speech-AI-Transcribe is a powerful tool for converting spoken language to writte
 
 Click on the images below to watch the videos:
 
-### Example Video 1
-<a href="https://content.jwplatform.com/videos/SybUFEpo-D1sQ4qx5.mp4">
-  <img src="https://assets-jpcust.jwpsrv.com/thumbnails/kk99iexi-1920.jpg" alt="Example Video 1" width="600"/>
-</a>
+### Example Video
+<video width="600" height="400" controls>
+  <source src="https://content.jwplatform.com/videos/SybUFEpo-D1sQ4qx5.mp4" type="video/mp4">
+ 
+</video>
 
 ## Video On Demand (VOD) Content or Streams
 
 In the [main example](examples), you can see how to create movies where the word being said is highlighted. 
 ### Additional Examples
 
-<a href="https://content.jwplatform.com/videos/CB4ixGjV-vRNXRpvq.mp4">
-  <img src="https://assets-jpcust.jwpsrv.com/thumbnails/aq9bm6a3-320.jpg" alt="Example Video 2" width="320"/>
-</a>
+<h2>Additional Examples</h2>
+<video width="600" height="400" controls>
+  <source src="https://content.jwplatform.com/videos/CB4ixGjV-vRNXRpvq.mp4" type="video/mp4">
+</video>
 
-<a href="https://content.jwplatform.com/videos/PeDseSR6-vRNXRpvq.mp4">
-  <img src="https://assets-jpcust.jwpsrv.com/thumbnails/nwwq5g6j-320.jpg" alt="Example Video 3" width="320"/>
-</a>
+<video width="600" height="400" controls>
+  <source src="https://content.jwplatform.com/videos/PeDseSR6-vRNXRpvq.mp4" type="video/mp4">
+</video>
 
-<a href="https://content.jwplatform.com/videos/xBAvfKPc-vRNXRpvq.mp4">
-  <img src="https://assets-jpcust.jwpsrv.com/thumbnails/nwwq5g6j-320.jpg" alt="Example Video 4" width="320"/>
-</a>
+<video width="600" height="400" controls>
+  <source src="https://content.jwplatform.com/videos/xBAvfKPc-vRNXRpvq.mp4" type="video/mp4">
+</video>
 
 ## How to Install
 
