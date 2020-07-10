@@ -1,7 +1,6 @@
 {
   "name": "speech-ai-transcribe",
   "description": "A powerful browser-based tool for converting spoken language into written text using advanced speech recognition technology.",
-  "private": true,
   "engines": {
     "node": ">=20.2.0"
   },
